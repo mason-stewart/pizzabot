@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n IronBot -d
+app: bin/hubot -a irc -n ironbot -d
