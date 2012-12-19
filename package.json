@@ -21,7 +21,7 @@
 
   "dependencies": {
     "hubot": "2.x.x",
-    "hubot-irc": "0.x.x",
+    "hubot-hipchat": ">= 1.1.3",
     "optparse": "1.x.x",
     "underscore": "1.x.x",
     "redis": "0.6.x"
