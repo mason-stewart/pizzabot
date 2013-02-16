@@ -1,6 +1,4 @@
-IronBot
+PizzaBot
 =======
 
-The Iron Yard's IRC bot, based on Heroku's flavor of Hubot: https://github.com/heroku/ircbot
-
-IronBot currently lives in #theironyard on irc.freenode.net
+A Secret IRC bot, based on this flavor of Hubot: https://github.com/parkr/hubot-heroku
